@@ -14,7 +14,7 @@ Progetto di realizzazione interfaccia con JNI
   
 + Compilazione della libreria DLL tramite Cygwin
 
-![](/img_JNI/Compilazione_DLL.jpg)
+![](/img_JNI/compilazione_DLL.jpg)
 ![](/img_JNI/dll_compilato.jpg)
 ![](/img_JNI/file_progetto.jpg)
 
